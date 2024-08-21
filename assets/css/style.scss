@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.copyright{
+  font-size: 10px;
+}
+
+.photo{
+  border: thick double #99b3ff;
+  border-radius: 15px 50px;
+}
+
+.menu-items{
+  list-style: none;
+  height: 40px;
+  padding: 0;
+  background: #f4f4f4;
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
+  width: 270px;
+}
+
+.menu-item{
+  background-color: #99ccff;
+}
+
+.social-media{
+  font-size: 50px;
+}
+
+p.social-media {
+  text-align: center;
+}

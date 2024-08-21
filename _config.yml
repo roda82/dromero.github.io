@@ -1,0 +1,29 @@
+# remote_theme: kralizek/minimal-mistakes
+remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: mmistakes/minimal-mistakes
+
+# remothe_theme: godalming123/minimal
+plugins:
+- jekyll-remote-theme
+# - jekyll-include-cache
+
+title: Daniel Romero Acero
+
+logo: /assets/img/dra.jpg
+
+share: true
+
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
