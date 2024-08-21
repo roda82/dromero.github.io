@@ -3,8 +3,8 @@ layout: default
 title: Daniel Romero Acero
 ---
 
-Hello, I'm Daniel, a Research Engineer at [Centre Inria de l'Université de Lille](https://www.inria.fr/en/inria-centre-university-lille), [Spirals Team](https://team.inria.fr/spirals/). My work mainly focus on measuring energy consumption of Software via Software Power Meters.  
-Previously, I was the Head of the IT Department of the [UCCS Laboratory](https://uccs.univ-lille.fr/). You can find my full CV [here].
+Hello, I'm Daniel, a Research Engineer at the [Centre Inria de l'Université de Lille](https://www.inria.fr/en/inria-centre-university-lille), in the [Spirals Team](https://team.inria.fr/spirals/) and the SED (Service d'Expérimentation et Développement). My work focus mainly on measuring energy consumption of Software via Software Power Meters.  
+Previously, I was the Head of the IT Department of the [UCCS Laboratory](https://uccs.univ-lille.fr/). You can find my full CV [here]().
 
 Currently I participate to the following projects:
 - [PowerAPI](https://powerapi.org/): Measuring Power Consumption of your applications  
