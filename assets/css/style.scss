@@ -12,7 +12,7 @@
   border-radius: 15px 50px;
 }
 
-.menu-items{
+ul.menu-items{
   list-style: none;
   height: 40px;
   padding: 0;
@@ -32,4 +32,15 @@
 
 p.social-media {
   text-align: center;
+}
+
+
+ul.downloads {
+  list-style: none;
+  height: 40px;
+  padding: 0;
+  background: #ccddff;
+  border-radius: 5px;
+  border: 1px solid #99b3ff;
+  width: 270px;
 }
